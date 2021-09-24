@@ -1,0 +1,16 @@
+# Local .terraform directories
+**/.terraform/*
+
+# Temporary directories
+logs/
+tmp/
+
+# macOS
+.DS_Store
+
+# Environments
+.venv
+
+# Python bytecode files
+.idea
+*.pyc
