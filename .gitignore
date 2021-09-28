@@ -10,6 +10,7 @@ tmp/
 
 # Environments
 .venv
+venv/
 
 # Python bytecode files
 .idea
